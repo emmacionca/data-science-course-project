@@ -1,1 +1,4 @@
-# data-science-course-project
+# Data Science Course Project
+
+## How To Use the Notebook:
+From this repository, download the files data_science_course_project.ipynb and us_counties_covid19_daily.csv. Next, it is important to make sure that the device you're running the code from has several libraries installed that sometimes are not installed by default, which have been provided as pip install commands in the notebook, which should work on any device. Next, you can run the cells up until you get to the read_csv method. To run this line, you need to have installed the file us_counties_covid19_daily.csv from this repository and have it in the same directory you're running the code from in order for it to be able to read the csv file. Once you've done this, you can run the rest of the code contained in the notebook and you should achieve the same results listed in the notebook in this repository.
